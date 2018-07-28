@@ -1,5 +1,5 @@
 <center>
-<img src="https://pbs.twimg.com/profile_images/1014904162281279489/PRtiG1G3_400x400.jpg" style="width: 600px;"/>
+<img src="https://github.com/Reproducibilidad/TallerChile/raw/master/logoICP.jpeg" style="width: 600px;"/>
 </center>
 
 
