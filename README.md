@@ -2,7 +2,6 @@
 <img src="https://github.com/Reproducibilidad/TallerChile/raw/master/logoICP.jpeg" style="width: 600px;"/>
 </center>
 
-
 # <center> Herramientas Informáticas <br>para la Investigación Interdisciplinaria</center>
 
 <a id='beginning'></a>
@@ -89,7 +88,7 @@ ____
 
 
 
-<td rowspan="2"> <a href="https://rawgit.com/Reproducibilidad/tallerPeru/master/Sesion1_Modelo.html" target="_blank">GUIA</a> 
+<td rowspan="2"> <a href="https://rawgit.com/Reproducibilidad/TallerChile/master/Sesion1_Modelo.html" target="_blank">GUIA</a> 
 </td>
 
 </tr>
