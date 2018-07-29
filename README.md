@@ -1,5 +1,5 @@
 <center>
-<img src="https://github.com/Reproducibilidad/TallerChile/raw/master/logoICP.png" style="width: 600px;"/>
+<img src="https://github.com/Reproducibilidad/TallerChile/raw/master/logoICP.png" style="width: 400px;"/>
 </center>
 
 
