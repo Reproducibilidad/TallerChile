@@ -1,6 +1,7 @@
 <center>
-<img src="https://github.com/Reproducibilidad/TallerChile/raw/master/logoICP.jpeg" style="width: 600px;"/>
+<img src="https://github.com/Reproducibilidad/TallerChile/raw/master/logoICP.png" style="width: 600px;"/>
 </center>
+
 
 # <center> Herramientas Informáticas <br>para la Investigación Interdisciplinaria</center>
 
