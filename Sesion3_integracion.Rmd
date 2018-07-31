@@ -277,7 +277,7 @@ legend('left', legend = c("TOP","MEDIUM","LOW"),
 
 _____
 
-[Volver al curso](https://reproducibilidad.github.io/tallerPeru/)
+[Volver al curso](https://reproducibilidad.github.io/TallerChile/)
 
 
 _____
