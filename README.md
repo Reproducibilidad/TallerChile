@@ -89,7 +89,7 @@ ____
 
 
 
-<td rowspan="2"> <a href="https://rawgit.com/Reproducibilidad/TallerChile/master/Sesion1_Modelo.html" target="_blank">GUIA</a> 
+<td rowspan="2"> <a href="http://escience.washington.edu/wp-content/uploads/2018/10/Sesion1_Modelo.html" target="_blank">GUIA</a> 
 </td>
 
 </tr>
@@ -105,7 +105,7 @@ ____
     Limpieza
     </td>
     <td rowspan="2">
-    <a href="https://rawgit.com/Reproducibilidad/TallerChile/master/Sesion2_PreProcesamiento.html" target="_blank">Material</a> 
+    <a href="http://escience.washington.edu/wp-content/uploads/2018/10/Sesion2_PreProcesamiento.html" target="_blank">Material</a> 
     </td>
 </tr>
 </tr>
@@ -120,7 +120,7 @@ ____
     <td rowspan="3">Herramientas colaborativos en línea para la investigación</td>
     <td>Elaboración de Documentos matriz</td>
 <td rowspan="3">
-<a href="https://rawgit.com/Reproducibilidad/TallerChile/master/Sesion3_integracion.html" target="_blank">Material</a>
+<a href="http://escience.washington.edu/wp-content/uploads/2018/10/Sesion3_integracion.html" target="_blank">Material</a>
 </td>
 </tr>
 
